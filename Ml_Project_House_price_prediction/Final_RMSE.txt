@@ -1,0 +1,10 @@
+These Are the Root Mean Squared Error(RMSE) for all the models that I used in the process of making my ML Model.
+
+1.Linear Regression Model:-
+  RMSE = 4.3031699903172855
+
+2.Decision Tree Regression Model:-
+  RMSE = 5.766650451149487
+
+3.Random Forest Regression Model:-
+  RMSE = 4.835815763551161
