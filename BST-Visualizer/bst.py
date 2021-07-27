@@ -1,6 +1,6 @@
 """
 This Python file contains the code for creation and traversing Binary Search Tree(BST).
-This file is imported by the bst_graphic.py to access the node creation and search algorithms for the
+This file is imported by the bst_visualizer.py to access the node creation and search algorithms for the
 visualisation purpose.
 """
 
