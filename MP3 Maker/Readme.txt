@@ -1,4 +1,4 @@
-                                                              ----------- MP3 MAKER -----------                                                              
+                                                  ------------------------ MP3 MAKER ---------------------------                                                              
    This is an application developed using Python which extracts text from PDF/Txt/Image File and converts text into speech and saves as an MP3 File.
 
 -> This application uses the Following:-
