@@ -20,8 +20,9 @@ def resource_path(relative_path):
     return os.path.join(base_path, relative_path)
 
 # Code Required for ibm_text_to_speech and other requirements
-url = "https://api.au-syd.text-to-speech.watson.cloud.ibm.com/instances/332a60c0-d4b0-439b-9e6b-c81245000537"
-key = "7eKuHjgh_Hj5cEmwpjFvTaax9n94KOFCKdMID0g4-0lK"
+# You can get the URL and KEY from the IBM website
+url = "Place your URL here"
+key = "Place your Key here"
 auth = IAMAuthenticator(key)
 tts = TextToSpeechV1(authenticator=auth)
 tts.set_service_url(url)
