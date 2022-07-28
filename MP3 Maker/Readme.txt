@@ -14,6 +14,6 @@
 3. Image -> Extracts Text from image type files (.png,.jpg,etc) and converts it into audio file.
 
 -> There are certain bugs in the application such as the it may not respond while creating the audio file but be patient it will complete the task.
--> Sometimes the conversion doesn't happen due to the limitation of IBM Watson Speech-to-Text API as it limitless no.of characters converted to 10,000 per month.
+-> Sometimes the conversion doesn't happen due to the limitation of IBM Watson Speech-to-Text API as it limits no.of characters converted to 10,000 per month.
 
 --> NOTE :- Place the background image file and the python file in the same folder to avoid errors.
