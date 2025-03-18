@@ -1,4 +1,4 @@
-                      -----------------------------------------------------BST VISUALIZER--------------------------------------------------------------
+-------------------------------------------------BST VISUALIZER---------------------------------------------------------
 
 -> This project is a visualizer for the Binary Search Tree(BST) created using the Turtle module in Python.
 -> This is used to visualize how the binary tree is constructed and also it visualizes the search path.
